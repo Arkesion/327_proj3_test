@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : 327_proj3_test.cpp
-// Author      : 
-// Version     :
+// Author      : Kevin Quirici
+// Version     : Kill Me
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
 //============================================================================
